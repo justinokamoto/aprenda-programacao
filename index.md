@@ -17,13 +17,13 @@ Vou recomendar muitos recursos bons que não estão em português então baixo e
 
 Entra em nosso servidor [Discord](https://discord.com/) e diga oi! Abra o Discord e me manda um mensagem por um convite ([link pra meu usuário](https://discord.com/users/431626553600770052)).
 
-## Leia o Guia do Reddit pra Aprender Programação
+## Leia o Guia Do Reddit Pra Aprender Programação
 
 Leia **[essa página](https://www.reddit.com/r/learnprogramming/wiki/faq/)** deste subreddit ([/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)). Este é um ótimo guia que vc pode consultar ao longo de sua jornada de programação.
 
-## Leia ou Assista Alguns que Apresentar Programação
+## Leia ou Assista Uma Introdução à Programação
 
-A internet tá cheia de videos e artigos que apresentam programação. Veja os links abaixo por alguns opções. Eu recomendo os videos de 'Harvard CS50'.
+A internet tá cheia de videos e artigos que introduziram programação. Veja os links abaixo por alguns opções. Eu recomendo os videos de 'Harvard CS50'.
 
 ## Tenta Desenvolver Um Programa Simples
 
